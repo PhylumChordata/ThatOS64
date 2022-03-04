@@ -23,10 +23,6 @@
 # BUILD INSTRCUTIONS  
 [https://github.com/ThatOSDev/ThatOS64/tree/master/BUILD.md](https://github.com/ThatOSDev/ThatOS64/tree/master/BUILD.md)  
 
-# SOCIAL MEDIA LINK
-**YOUTUBE** : https://www.youtube.com/channel/UCouyC9D6WFBwc24sqdkS-jw  
-**DISCORD** : ThatOSDev#5516  
-
 # READ THIS !!!
 - THINGS YOU SHOULD KNOW BEFORE STARTING OS DEVELOPMENT  
     - The C Language  
