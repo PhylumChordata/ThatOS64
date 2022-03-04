@@ -1,9 +1,6 @@
-# Step by Step Tutorials on how to code a 64-Bit loader and kernel for OS Development
+# Step by Step Tutorials on how to code a 64-Bit loader and kernel for OS Development  
 
-![GitHub stars](https://img.shields.io/github/stars/ThatOSDev/ThatOS64?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/ThatOSDev/ThatOS64?style=social)  
-![GitHub watchers](https://img.shields.io/github/watchers/ThatOSDev/ThatOS64?style=social)  
-![GitHub followers](https://img.shields.io/github/followers/ThatOSDev?style=social)  
+**It might seem Silly of me to fork my own project from someone else, but since they kept a copy of it, I figure I would fork it just to show them my thanks for supporting my code in the first place. However, I am not updating this project.**
 
 # NOTES  
 - WARNING - This code is for teaching purposes only. It is not written for professional use. Some code is written in order to speed up teaching, and thus is not properly coded. You should rewrite the code for your own professional use.  
@@ -22,10 +19,6 @@
 
 # BUILD INSTRCUTIONS  
 [https://github.com/ThatOSDev/ThatOS64/tree/master/BUILD.md](https://github.com/ThatOSDev/ThatOS64/tree/master/BUILD.md)  
-
-# SOCIAL MEDIA LINK
-**YOUTUBE** : https://www.youtube.com/channel/UCouyC9D6WFBwc24sqdkS-jw  
-**DISCORD** : ThatOSDev#5516  
 
 # READ THIS !!!
 - THINGS YOU SHOULD KNOW BEFORE STARTING OS DEVELOPMENT  
@@ -58,21 +51,12 @@ typedef struct BLOCKINFO
   
 # TUTORIALS
 - RIGHT CLICK THE LINKS AND OPEN IN NEW TAB  
-	- INITIAL SETUP &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [YT1](https://www.youtube.com/watch?v=WCFEEboRHNg)  ---  [CODE1](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code1)  
-	- ABI INTERFACE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [YT2a](https://www.youtube.com/watch?v=T7iXp1UwaiA) | [YT2b](https://www.youtube.com/watch?v=zkCHrM-B0Ig) | [YT2c](https://www.youtube.com/watch?v=eUOr01eVGVM) ---  [CODE2](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code2)  
-	- GRAPHIC TEXT &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [YT3](https://www.youtube.com/watch?v=9d7TWvGsbts) ---  [CODE3](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code3)   
-	- ORGANIZATION AND TEXT POSITION &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [YT4](https://www.youtube.com/watch?v=wa75ifmBmro) ---  [CODE4](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code4)  
-	- GDT & MMAP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [YT5a](https://www.youtube.com/watch?v=o6Z67fHswd4) | [YT5b](https://www.youtube.com/watch?v=gsH_UHQ0DyI) | [YT5c](https://www.youtube.com/watch?v=k9dp54Mh0Ew) | [YT5d](https://www.youtube.com/watch?v=QDg10w5EvJk) | [YT5e](https://www.youtube.com/watch?v=GfD7AHW4xe4) ---  [CODE5](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code5)  
-	- PAGING (Coming Soon) &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [YT6] ---  [CODE6](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code6) 
-
-
-More Tuts Coming soon... ( **NOTE : The order of this list is subject to change** )  
-
-	* IDT
-	* BMP / TGA Image Loading 
-	* PCI  
-	* AHCI  
-	* Mouse  
+	- INITIAL SETUP &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ---  [CODE1](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code1)  
+	- ABI INTERFACE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ---  [CODE2](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code2)  
+	- GRAPHIC TEXT &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ---  [CODE3](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code3)   
+	- ORGANIZATION AND TEXT POSITION &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ---  [CODE4](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code4)  
+	- GDT & MMAP &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --- [CODE5](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code5)  
+	- PAGING  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ---  [CODE6](https://github.com/ThatOSDev/ThatOS64/tree/master/src/code6) 
 
 
 ![Current Progress](progress1.png)  
