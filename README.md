@@ -1,9 +1,6 @@
-# Step by Step Tutorials on how to code a 64-Bit loader and kernel for OS Development
+# Step by Step Tutorials on how to code a 64-Bit loader and kernel for OS Development  
 
-![GitHub stars](https://img.shields.io/github/stars/ThatOSDev/ThatOS64?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/ThatOSDev/ThatOS64?style=social)  
-![GitHub watchers](https://img.shields.io/github/watchers/ThatOSDev/ThatOS64?style=social)  
-![GitHub followers](https://img.shields.io/github/followers/ThatOSDev?style=social)  
+**It might seem Silly of me to fork my own project from someone else, but since they kept a copy of it, I figure I would fork it just to show them my thanks for supporting my code in the first place.**
 
 # NOTES  
 - WARNING - This code is for teaching purposes only. It is not written for professional use. Some code is written in order to speed up teaching, and thus is not properly coded. You should rewrite the code for your own professional use.  
